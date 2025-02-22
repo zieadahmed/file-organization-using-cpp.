@@ -3,7 +3,6 @@ This folder contains C++ implementations of Sequential File Organization, a basi
 
 📌 What is Sequential File Organization?
 Sequential file organization stores records one after another in a sequence.
-
 Suitable for sequential reading and writing.
 Inefficient for random access or modification.
-Commonly used for logs, reports, and archival data
+Commonly used for logs, reports, and archival data.
